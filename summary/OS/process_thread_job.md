@@ -14,4 +14,4 @@ unique thread id 를 가지며, schedule 되기 전까지의 thread context 를 
 * Job Object내의 프로세스는 분리될 수 없으며, process 에 의해 생성되는 process 역시 동일 Job Object에 속한다.
 
 
-![Alt text](/Users/dev/Exercism/scala/spark/documents/image01.png)
+![Alt text](./resource/reference_01.png)
