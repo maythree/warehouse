@@ -29,3 +29,6 @@
 - [Event Storming and Spring with a Splash of DDD - JAKUB PILIMON](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [Design Pattern 참고 및 학습 사이트 - RefactoringGuru](https://refactoring.guru/)
 - [Design Pattern 참고 및 학습 사이트 - SourceMakiing](https://sourcemaking.com/)
+
+#### 6. 면접 대비 자료
+- [Network] (https://www.youtube.com/channel/UCcppSLMF-4mYzOWDmaixgkg/videos)
