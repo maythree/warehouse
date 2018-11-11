@@ -29,8 +29,8 @@
 - [Event Storming and Spring with a Splash of DDD - JAKUB PILIMON](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [Design Pattern 참고 및 학습 사이트 - RefactoringGuru](https://refactoring.guru/)
 - [Design Pattern 참고 및 학습 사이트 - SourceMakiing](https://sourcemaking.com/)
-- [Microservice - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=1s)
+- [Microservice - GOTO 2014 Microservices, Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=1s)
 
 #### 6. 면접 대비 자료
-- [Network](https://www.youtube.com/channel/UCcppSLMF-4mYzOWDmaixgkg/videos)
-- [JVM](https://www.youtube.com/watch?v=ZBJ0u9MaKtM&t=170s)
+- [Network - CCIE의 Network 실무기술](https://www.youtube.com/channel/UCcppSLMF-4mYzOWDmaixgkg/videos)
+- [JAVA - JVM architecture - tutorial](https://www.youtube.com/watch?v=ZBJ0u9MaKtM&t=170s)
