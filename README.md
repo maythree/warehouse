@@ -12,17 +12,25 @@
 
 #### 2. FRONT-END
 - [레진 마크업 가이드](https://github.com/lezhin/markup-guide)
-- [ES6 Generater](https://meetup.toast.com/posts/73)
+- [ES6 Generater - toast](https://meetup.toast.com/posts/73)
+- [ES6 Arrow Function [번역]](http://webframeworks.kr/tutorials/translate/arrow-function/)
+- [ES6 Class는 prototype 상속의 문법설탕일 뿐인가](https://gomugom.github.io/is-class-only-a-syntactic-sugar/)
+- [ES6 Guide](https://joshua1988.github.io/es6-online-book/spread-operator.html)
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 - [javascript30](https://github.com/sat10am/JavaScript30)
+- [자바스크립트 알고리즘 및 자료구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+- [이벤트 버블링, 이벤크 캡처, 이벤트 위임](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/) 
+
 
 #### 3. BACK-END
 - [An Introduction to JVM Performance by Rafael Winterhalter - Devoxx](https://www.youtube.com/watch?v=hjpzLXoUu1Y&feature=youtu.be)
 - [ThreadPool과 ForkJoinPool - 하마_이승현](http://me2.do/5W4fGxFI)
 - [Node.js Guide](https://pismute.github.io/nodeguide.com/index.html)
+- [PHP - The Right Way](http://modernpug.github.io/php-the-right-way/)
 
 #### 4. OPERATIONS(운영, 인프라)
 - [네이버 메인 페이지의 트래픽 처리 - d2](https://d2.naver.com/helloworld/6070967)
+- [개발자를 위한 인프라 기초 정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 
 #### 5. DEVELOPMENT ARCHITECT & METHODOLOGY(개발 설계, 방법론)
 - [Web Architecture 101 - Jonathan fulton [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
@@ -34,3 +42,5 @@
 #### 6. 면접 대비 자료
 - [Network - CCIE의 Network 실무기술](https://www.youtube.com/channel/UCcppSLMF-4mYzOWDmaixgkg/videos)
 - [JAVA - JVM architecture - tutorial](https://www.youtube.com/watch?v=ZBJ0u9MaKtM&t=170s)
+- [TCP와 UDP의 차이](http://www.inven.co.kr/webzine/news/?news=165870)
+- [Primary Index와 Secondary Index]
