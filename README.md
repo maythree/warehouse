@@ -1,6 +1,6 @@
 # WARE_HOUSE
 
-### BOOKMARK
+### RECOMMAND DOCUMENTS
 ---
 #### 1. COMMON
 - [개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
