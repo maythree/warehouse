@@ -9,6 +9,7 @@
 - [IntelliJ를 JIRA와 연동해서 사용하기](https://jojoldu.tistory.com/260)
 - [macOS 개발환경 구축](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 - [프로그래머 필독서 50](https://www.sangkon.com/2016/02/10/good_books_for_dev/)
+- [인터넷 동작 원리](https://www.khanacademy.org/computing/computer-science/internet-intro)
 
 #### 2. FRONT-END
 - [레진 마크업 가이드](https://github.com/lezhin/markup-guide)
