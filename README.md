@@ -10,6 +10,7 @@
 - [macOS 개발환경 구축](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 - [프로그래머 필독서 50](https://www.sangkon.com/2016/02/10/good_books_for_dev/)
 - [인터넷 동작 원리](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- [[후기]원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
 
 #### 2. FRONT-END
 - [레진 마크업 가이드](https://github.com/lezhin/markup-guide)
