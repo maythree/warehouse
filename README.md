@@ -42,6 +42,7 @@
 - [Design Pattern 참고 및 학습 사이트 - RefactoringGuru](https://refactoring.guru/)
 - [Design Pattern 참고 및 학습 사이트 - SourceMakiing](https://sourcemaking.com/)
 - [Microservice - GOTO 2014 Microservices, Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=1s)
+- [Tdd is dead? [번역]](http://jinson.tistory.com/m/271)
 
 #### 6. 면접 대비 자료
 - [Network - CCIE의 Network 실무기술](https://www.youtube.com/channel/UCcppSLMF-4mYzOWDmaixgkg/videos)
